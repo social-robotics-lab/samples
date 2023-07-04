@@ -14,7 +14,7 @@ nod_motion = [
 ]
 
 # OpenAI APIキーをセットアップ
-openai.api_key = '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'
+openai.api_key = '自分のAPIキーを入れて下さい'
 model_engine = 'gpt-3.5-turbo-0613'
 
 params = [
